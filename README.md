@@ -1,8 +1,9 @@
-<h1 align="center">Hi 👋, I'm Brayan Najera</h1>
+<h1 align="center">Hi 👋, I'm Brayan Najera, I'm from Guatemala</h1>
 - 🔭 I’m currently working on **Python :)** 
-- 📫 How to reach me **brayannajera500@gmail.com**
+
 
 <h3 align="left">Connect with me:</h3>
+- 📫 How to reach me **brayannajera500@gmail.com**
 <p align="left">
 </p>
 
